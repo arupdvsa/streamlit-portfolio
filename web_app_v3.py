@@ -118,7 +118,7 @@ def main():
             st.write(display_analyst_rec)
 
     #write library versions
-    st.write(st.__version__)
-    st.write(yf.__version__)
+    #st.write(st.__version__)
+    #ßst.write(yf.__version__)
 if __name__ == "__main__":
     main()
